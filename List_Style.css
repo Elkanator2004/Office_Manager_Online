@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: #2ECCFA;
+}
+li{
+    color: #2ECCFA;
+}
+#container{
+    background-color: #E0F8F7;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+body{
+    background-color: #A9F5F2;
+}

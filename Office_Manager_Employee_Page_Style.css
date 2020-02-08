@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: #2ECCFA;
+}
+body{
+    background-color: #A9F5F2;
+}
+#container{
+    background-color: #E0F8F7;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+p{
+    text-align: center;
+    color: #2ECCFA;
+}

@@ -1,0 +1,54 @@
+body{
+    background-color: #A9F5F2;
+}
+#container{
+    background-color: #E0F8F7;
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+#welcome_msg{
+    font-size: 24px;
+    text-align: center;
+    color: #81F7F3;
+}
+p{
+    color: #81F7F3;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    color: #2ECCFA;
+    padding-left: 10px;
+}
+h2,h3{
+    color: #2ECCFA;
+    padding-left: 10px;
+}
+footer{
+    text-align: end;
+    font-size: 12px;
+    clear: both;
+    color: #2ECCFA;
+}
+#log-in{
+    float: right;
+    width: 250px;
+}
+#register{
+    float: left;
+    width: 250px;
+}
+input{
+    display: block;
+}
+#reg{
+    color: #2ECCFA;
+}
+#log{
+    color: #2ECCFA;
+}
+aside{
+    padding-left: 20px;
+}
+
